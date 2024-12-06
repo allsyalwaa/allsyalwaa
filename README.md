@@ -18,9 +18,9 @@ I'm a passionate **Front-End Developer** with a strong enthusiasm for **Software
 - Contributing to **open-source cybersecurity projects**.
 
 ## 📫 How to reach me:
-- Email: zulfiasyal@gmail.com (mailto:zulfiasyal@gmail.com)
-- LinkedIn: Zulfia Dwi Al Syalwa (www.linkedin.com/in/zulfia-dwi-al-syalwa)
-- GitHub: allsyalwaa ([https://github.com/yourusername](https://github.com/allsyalwaa))
+- Email: [zulfiasyal@gmail.com](mailto:zulfiasyal@gmail.com)
+- LinkedIn: [Zulfia Dwi Al Syalwa](www.linkedin.com/in/zulfia-dwi-al-syalwa)
+- GitHub: [allsyalwaa]([https://github.com/yourusername](https://github.com/allsyalwaa))
 
 ## 📈 GitHub Stats
-!allsyalwaa-stats (https://github-readme-stats.vercel.app/api?username=allsyalwaa&show_icons=true)
+![allsyalwaa-stats](https://github-readme-stats.vercel.app/api?username=allsyalwaa&show_icons=true)
