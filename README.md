@@ -21,6 +21,3 @@ I'm a passionate **Front-End Developer** with a strong enthusiasm for **Software
 - Email: [zulfiasyal@gmail.com](mailto:zulfiasyal@gmail.com)
 - LinkedIn: [Zulfia Dwi Al Syalwa](www.linkedin.com/in/zulfia-dwi-al-syalwa)
 - GitHub: [allsyalwaa](https://github.com/allsyalwaa)
-
-## 📈 GitHub Stats
-![allsyalwaa-stats](https://github-readme-stats.vercel.app/api?username=allsyalwaa&show_icons=true)
