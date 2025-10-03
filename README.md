@@ -1,7 +1,7 @@
 # Hello, I'm Zulfia Dwi Al Syalwa 👋
 
 ## 👩‍💻 About Me
-I am a **Computer Science** student at **Universitas Gadjah Mada**, specializing as a **Software Developer**. While my expertise lies in building responsive and user-friendly web applications, I also have a strong interest in **Cybersecurity**. I’m passionate about exploring and developing solutions across these fields, constantly seeking to expand my skills and knowledge.
+I am a **Bachelor of Computer Science** from **Universitas Gadjah Mada**, specializing as a **Software Developer**. While my expertise lies in building responsive and user-friendly web applications, I also have a strong interest in **Cybersecurity**. I’m passionate about exploring and developing solutions across these fields, constantly seeking to expand my skills and knowledge.
 
 ## 🛠 Skills
 ### Programming & Frameworks
